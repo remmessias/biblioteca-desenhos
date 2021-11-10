@@ -1,5 +1,7 @@
 # biblioteca-desenhos
 
+This repository is for a project created for my workshop at SECOMP 2021. In this workshop I taught how to create an application with Vue using Firebase as BaaS.
+
 ## Project setup
 ```
 npm install
